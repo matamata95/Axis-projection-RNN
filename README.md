@@ -1,0 +1,1 @@
+Making NN models for the X-Y axis projection based on the data collected from the working-operations with different levels of desynchronisation. Data collected/used is the position of the axis's measured in micrometers during its normal working-operations. 
